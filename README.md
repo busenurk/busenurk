@@ -2,4 +2,4 @@
 
 ### Hei 🖖
 
-I am a researcher, nature lover and yogini. Feel free to use my repos!
+I am a researcher, nature lover and yogini. Feel free to use my repos and [articles](https://scholar.google.com/citations?user=OKlYJEgAAAAJ&hl=en&oi=ao)!
