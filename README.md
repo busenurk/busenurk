@@ -1,8 +1,6 @@
 ### Hei 🖖
 
-I am a researcher, nature lover and yogini.
-
-Feel free to use my repos and [articles](https://scholar.google.com/citations?user=OKlYJEgAAAAJ&hl=en&oi=ao)!
+I am a researcher, nature lover and yogini. Feel free to use my repos and [articles](https://scholar.google.com/citations?user=OKlYJEgAAAAJ&hl=en&oi=ao)!
 
 <br>
 
@@ -13,10 +11,21 @@ Join us! [@Fjord CleanUP 🐳](https://www.fjordcleanup.no)
 
 <br>
 
-## Graduation
+### Current Position
+
+Researcher - Dept. of Pharmacy [@University of Oslo](https://www.mn.uio.no/farmasi/english/?vrtx=person-view&uid=kizilasb)
+
+Research Assistant - NordSTAR [@Oslo Metropolitan University](https://www.oslomet.no/en/nordstar)
+
+<br>
+
+### Graduation
 
 B.S. in Statistics - Mimar Sinan Fine Arts University
 
 M.S. in Statistics - Mimar Sinan Fine Arts University
 
 Ph.D. in Statistics - Yıldız Technical University
+
+
+
