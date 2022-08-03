@@ -14,7 +14,7 @@ Join us! [@Fjord CleanUP 🐳](https://www.fjordcleanup.no)
 
 ## Graduation
 
--------
+--
 
 B.S. Statistics - Mimar Sinan Fine Arts University
 
