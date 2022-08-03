@@ -15,8 +15,8 @@ Join us! [@Fjord CleanUP 🐳](https://www.fjordcleanup.no)
 
 ## Graduation
 
-B.S. Statistics - Mimar Sinan Fine Arts University
+B.S. in Statistics - Mimar Sinan Fine Arts University
 
-M.S. Statistics - Mimar Sinan Fine Arts University
+M.S. in Statistics - Mimar Sinan Fine Arts University
 
-Ph.D. Statistics - Yıldız Technical University
+Ph.D. in Statistics - Yıldız Technical University
