@@ -11,7 +11,7 @@ Join us! [@Fjord CleanUP 🐳](https://www.fjordcleanup.no)
 
 <br>
 
-## Current Position
+## Current Positions
 
 Researcher - Dept. of Pharmacy [@University of Oslo](https://www.mn.uio.no/farmasi/english/?vrtx=person-view&uid=kizilasb)
 
