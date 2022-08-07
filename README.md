@@ -1,6 +1,8 @@
 ## Hei 🖖
 
-I am a researcher, nature lover and yogini. Feel free to use my repos and [articles](https://scholar.google.com/citations?user=OKlYJEgAAAAJ&hl=en&oi=ao)!
+I am a researcher, nature lover and yogini. Feel free to use my repos!
+
+[Google Scholar](https://scholar.google.com/citations?user=OKlYJEgAAAAJ&hl=en&oi=ao) | [LinkedIn](https://www.linkedin.com/in/busenur-kızılaslan-795ab54a/) | [shutterstock](https://www.shutterstock.com/en/g/Busenur+Kizilaslan?rid=343729487)
 
 <br>
 
