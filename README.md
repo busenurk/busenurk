@@ -19,15 +19,5 @@ Researcher - Dept. of Pharmacy [@University of Oslo](https://www.mn.uio.no/farma
 
 Research Assistant - NordSTAR [@Oslo Metropolitan University](https://www.oslomet.no/en/nordstar)
 
-<br>
-
-## Graduation
-
-B.S. in Statistics - Mimar Sinan Fine Arts University
-
-M.S. in Statistics - Mimar Sinan Fine Arts University
-
-Ph.D. in Statistics - Yıldız Technical University
-
 
 
